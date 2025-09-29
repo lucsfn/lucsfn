@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
@@ -20,4 +20,4 @@
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-2b1b26225/)](https://www.linkedin.com/in/lucas-fernandes-2b1b26225/)
-[![GitHub](https://img.shields.io/github/followers/lucsfn?label=follow%20me&style=social)](https://github.com/lucsfn)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lucasfernandes1506@gmail.com)](mailto:lucasfernandes1506@gmail.com)
