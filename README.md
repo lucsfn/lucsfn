@@ -13,10 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-<a href="https://github.com/lucsfn" title="Lucas Fernandes Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsfn&theme=tokyonight&show_icons=true" />
-</a>
-
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-2b1b26225/)](https://www.linkedin.com/in/lucas-fernandes-2b1b26225/)
