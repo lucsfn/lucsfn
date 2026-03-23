@@ -1,15 +1,16 @@
 # Lucas Fernandes
 
 -   🎓 Studying **Information Systems** at **PUC Minas**.
--   🌱 Learning more about **full-stack development** and **user experience**.
+-   💻 **Full-stack Developer** 
 -   💡 Always seeking **excellence** and **continuous learning** in everything I do.
 
 ## My Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
