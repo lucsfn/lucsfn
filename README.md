@@ -1,7 +1,7 @@
 # Lucas Fernandes
 
 -   🎓 Studying **Information Systems** at **PUC Minas**.
--   💻 **Full-stack Developer** 
+-   👨‍💻 Working as *Full-stack Developer** at **Fencom**
 -   💡 Always seeking **excellence** and **continuous learning** in everything I do.
 
 ## My Stack
